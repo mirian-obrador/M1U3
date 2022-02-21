@@ -1,0 +1,44 @@
+h1 {
+  color: rgb(48, 10, 219);
+  font-family: "Lucida Sans Unicode";
+  font-size: 25px;
+}
+h2 {
+  color: rgb(80, 125, 177);
+  text-decoration: underline rgb(34, 25, 75);
+  font-family: "Arial Narrow";
+  font-size: 20px;
+}
+p {
+  color: rgb(75, 70, 70);
+  font-family: "Arial";
+  font-size: 15px;
+}
+img {
+  width: 30%;
+  height: 30%;
+  filter: grayscale(100%);
+}
+img:hover {
+  filter: grayscale(0%);
+}
+#series {
+  font-family: "Calibri";
+  color: darkblue;
+  background-color: aquamarine;
+  width: 200px;
+  height: 200px;
+}
+#series:hover {
+  background-color: rgb(138, 168, 233);
+}
+#peliculas {
+  font-family: "Geneva";
+  color: rgb(201, 192, 209);
+  background-color: darkcyan;
+  width: 250px;
+  height: 150px;
+}
+#peliculas:hover {
+  color: rgb(227, 235, 241);
+}
